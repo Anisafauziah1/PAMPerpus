@@ -21,5 +21,6 @@ Aplikasi ini dibuat untuk mendata jenis jenis buku, jenis jenis penyewa, dan jen
 
 **Detail Pembagian**
 
-**1. Rania Gisela Pramesty (20210140133):** Membuat home view model, home screen, edit view model, edit screen, dan data class 
-**2. Anisa Fauziah (20210140041):** Membuat detail view model, detail screen, entry view model, entry screen, dan respository
+**1. Rania Gisela Pramesty (20210140133):** Membuat home view model, home screen, edit view model, edit screen, dan data class.
+
+**2. Anisa Fauziah (20210140041):** Membuat detail view model, detail screen, entry view model, entry screen, dan respository.
